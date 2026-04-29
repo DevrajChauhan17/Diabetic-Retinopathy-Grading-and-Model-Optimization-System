@@ -1,0 +1,30 @@
+# Virtual Environments
+.venv/
+env/
+venv/
+ENV/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Datasets
+dataset/
+
+# Output logs and reports
+db_check.txt
+test_out.txt
+test_results.txt
+metrics_overall.csv
+metrics_per_class.csv
+metrics_report.txt
+
+# Caches
+ground_truth_cache.json
+
+# Note: classifier_retrained.pt is ~98MB which is very close to GitHub's 100MB limit.
+# If you run into issues pushing it, you may need to use Git LFS or ignore it here.
+
+# Sensitive Info
+.env

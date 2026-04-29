@@ -1,0 +1,14 @@
+# Optimized Requirements for GPU-Accelerated Medical Analysis
+# Use: pip install -r requirements_gpu.txt --index-url https://download.pytorch.org/whl/cu121
+
+torch
+torchvision
+torchaudio
+pandas
+numpy
+Pillow
+scikit-learn
+mysql-connector-python
+matplotlib
+tk
+customtkinter>=5.2.0
