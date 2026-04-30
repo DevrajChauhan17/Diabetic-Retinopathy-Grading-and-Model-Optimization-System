@@ -37,7 +37,7 @@ DR_DESC = {
     "Proliferative DR": "Critical stage with risk of abnormal new vessel growth.",
 }
 
-PROJECT_NAME = "AI Diabetic Retinopathy Grading and Model Optimization System"
+PROJECT_NAME = "Diabetic Retinopathy Grading and Model Optimization System"
 
 class RetinaApp(ctk.CTk):
     def __init__(self):

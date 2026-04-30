@@ -1,4 +1,4 @@
-# AI Diabetic Retinopathy Grading and Model Optimization System
+# Diabetic Retinopathy Grading and Model Optimization System
 
 A deep learning-based classification system that detects and classifies **Diabetic Retinopathy (DR)** from retinal fundus images into 5 stages using a fine-tuned ResNet50 model with Boundary Value Analysis, Focal Loss, and a Ground Truth Cache for guaranteed precision.
 
