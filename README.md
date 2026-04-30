@@ -4,6 +4,14 @@ A deep learning-based classification system that detects and classifies **Diabet
 
 ---
 
+## 📸 Application Screenshot
+
+<p align="center">
+  <img src="screenshots/app_ui.png" alt="Application UI" width="900"/>
+</p>
+
+---
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
@@ -23,6 +31,10 @@ A deep learning-based classification system that detects and classifies **Diabet
 ---
 
 ## Project Overview
+
+<p align="center">
+  <img src="screenshots/Normal vs Diabetic eye.png" alt="Normal vs Diabetic Retina" width="600"/>
+</p>
 
 This project uses a **ResNet50** convolutional neural network to classify retinal fundus images into one of 5 Diabetic Retinopathy conditions. It includes:
 
